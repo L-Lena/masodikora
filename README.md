@@ -1,1 +1,1 @@
-# masodikora
+# adatbazis
