@@ -1,12 +1,12 @@
 Modul 1
-https://learn.microsoft.com/hu-hu/training/modules/introduction-to-transact-sql/8-summary#completion
+https://learn.microsoft.com/api/achievements/share/hu-hu/LnaLakatos-4898/FM2Y6RFX?sharingId=399A74A6594CE035
 Modul 2
-https://learn.microsoft.com/hu-hu/training/modules/sort-filter-queries/9-summary#completion
+https://learn.microsoft.com/api/achievements/share/hu-hu/LnaLakatos-4898/A4EZH557?sharingId=399A74A6594CE035
 Modul 3
-https://learn.microsoft.com/hu-hu/training/modules/query-multiple-tables-with-joins/8-summary#completion
+https://learn.microsoft.com/api/achievements/share/hu-hu/LnaLakatos-4898/BCGJVJ6D?sharingId=399A74A6594CE035
 Modul 4
-https://learn.microsoft.com/hu-hu/training/modules/write-subqueries/7-summary#completion
+https://learn.microsoft.com/api/achievements/share/hu-hu/LnaLakatos-4898/PLSK7964?sharingId=399A74A6594CE035
 Modul 5
-https://learn.microsoft.com/hu-hu/training/modules/use-built-functions-transact-sql/10-summary#completion
+https://learn.microsoft.com/api/achievements/share/hu-hu/LnaLakatos-4898/NVZXCCRF?sharingId=399A74A6594CE035
 Modul 6
-https://learn.microsoft.com/hu-hu/training/modules/modify-data-with-transact-sql/9-summary#completion
+https://learn.microsoft.com/api/achievements/share/hu-hu/LnaLakatos-4898/8ZANGGFW?sharingId=399A74A6594CE035
